@@ -10,7 +10,7 @@
 - 💬 Ask me about **DSA, React.js, Qdrant, Node.js**
 - 📫 How to reach me **vivek727sumo@gmail.com**
 - 📄 Know about my experiences  
-  [https://drive.google.com/file/d/1B6_GfBlb1ri8dszHfl_buET0R5wmZWrY/view?usp=drivesdk](https://drive.google.com/file/d/1B6_GfBlb1ri8dszHfl_buET0R5wmZWrY/view?usp=drivesdk)
+  [RESUME](https://drive.google.com/file/d/1HwT100L5eRrM3niGuQ7vURE0YG85Gh1_/view?usp=sharing)
 
 ---
 
