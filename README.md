@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vixxk&label=Profile%20Clicks&color=00ffff&style=plastic" alt="vixxk" />
 </p>
 
-- 🔭 I’m currently working on [KnowChain](https://github.com/vixxk/KnowChain)
+- 🔭 I’m currently working on [ApniEstate](https://www.apniestate.com/)
 - 🌱 I’m currently learning **Next.js,Generative AI**
 - 💬 Ask me about **DSA, React.js, Qdrant, Node.js**
 - 📫 How to reach me **vivek727sumo@gmail.com**
