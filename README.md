@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [ApniEstate](https://www.apniestate.com/)
 - 🌱 I’m currently learning **Next.js,Generative AI**
 - 💬 Ask me about **DSA, React.js, Qdrant, Node.js**
-- 📫 How to reach me **vivek727sumo@gmail.com**
+- 📫 How to reach me **vivek.jsx@gmail.com**
 - 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1HwT100L5eRrM3niGuQ7vURE0YG85Gh1_/view?usp=sharing)
 
 ---
