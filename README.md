@@ -105,9 +105,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vixxk&theme=github_dark" alt="Profile details card" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vixxk&theme=github_dark" alt="Stats card" />
+  <img src="https://streak-stats.demolab.com?user=vixxk&theme=github-dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vixxk&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ## 📈 DSA Statistics
 
