@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Anand</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=120&section=header&text=Vivek%20Anand&fontColor=ffffff&fontSize=40" />
 <h3 align="center">A Full-Stack GenAI Developer</h3>
 
 <p align="center">
@@ -118,6 +118,10 @@
 
 
 ## 📈 DSA Statistics
+
+<p align="center">
+  <img height="180em" src="https://leetcard.jacoblin.cool/vivek727anand" />
+</p>
 
 <p align="center">
   <img height="240em" src="https://gfgstatscard.vercel.app/vixx" />
