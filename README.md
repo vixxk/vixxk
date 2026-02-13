@@ -32,7 +32,7 @@
 - 🌱 Currently learning: **Next.js, Generative AI**  
 - 💬 Ask me about: **DSA, React.js, Qdrant, Node.js**  
 - 📫 Reach me at: **vivek.jsx@gmail.com**  
-- 📄 Know more about my work: **[View Resume](https://drive.google.com/file/d/1K17sb7lSPswW5C35fLPp-kvq6G6OAQKR/view?usp=sharing)**  
+- 📄 Know more about my work: **[View Resume](https://drive.google.com/file/d/1dyN6FW19EQ9GZYspHPd_hQmbI_liiYMc/view?usp=sharing)**  
 
 ---
 
