@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vixxk/AIJobPortal" target="_blank">
-    <img src="https://img.shields.io/badge/Building-Gradnex-%2300FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Building-Hyrego-%2300FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="mailto:vivek.jsx@gmail.com">
     <img src="https://img.shields.io/badge/Email-vivek.jsx%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: **[Gradnex](https://github.com/vixxk/AIJobPortal)**  
+- 🔭 Currently building: **[Hyrego](https://github.com/vixxk/AIJobPortal)**  
 - 🌱 Currently learning: **Next.js, Generative AI**  
 - 💬 Ask me about: **DSA, React.js, Qdrant, Node.js**  
 - 📫 Reach me at: **vivek.jsx@gmail.com**  
