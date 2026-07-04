@@ -35,7 +35,7 @@
 ```typescript
 const vivek = {
     currenlocation:"Mohali, Punjab",
-    currentFocus: ["Building Hyrego - AI Career Assistant", "Mingo"],
+    currentFocus: ["Hyrego - AI Career Assistant", "Mingo"],
     learning: ["Agentic AI", "FastAPI"],
     expertise: ["Full-Stack Development", "Data Structures & Algorithms", "System Design", "Generative AI"],
     funFact: "Concepts over syntax. Problems over patterns. 💡"
@@ -62,7 +62,7 @@ const vivek = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -107,7 +107,10 @@ const vivek = {
 <br>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Fireworks AI](https://img.shields.io/badge/Fireworks_AI-FF4F00?style=for-the-badge&logo=firefox&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=for-the-badge&logo=graph&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 
 </details>
