@@ -2,8 +2,6 @@
 
 <!-- Dynamic Header -->
 <img src="./nb.png" alt="GitHub Banner" width="100%" />
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Generative+AI+Enthusiast;Building+Hyrego+%F0%9F%9A%80;DSA+Problem+Solver" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p align="center">
