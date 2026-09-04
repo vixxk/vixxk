@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <br>
-  <a href="https://github.com/vixxk/AIJobPortal">
-    <img src="https://img.shields.io/badge/Building-Hyrego-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+  <a href="https://vixx.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-vixx.onrender.com-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
